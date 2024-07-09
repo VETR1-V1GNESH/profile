@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.image-container{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    position: relative;
+    padding: 3px;
+    display: flex;
+    justify-content: center;
+}
+
+.profile-pic{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid white;
+}
