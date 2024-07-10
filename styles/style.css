@@ -73,16 +73,32 @@ body{
     background-color: #4267b2;
 }
 
+#facebook:hover{
+    background-color: #5b89e6;
+}
+
 #twitter{
     background-color: #1da1f2;
+}
+
+#twitter:hover{
+    background-color: #4db0ed;
 }
 
 #instagram{
     background-color: #e1306c;
 }
 
+#instagram:hover{
+    background-color: #ec6491;
+}
+
 #github{
     background-color: black;
+}
+
+#github:hover{
+    background-color: rgb(61, 61, 61);
 }
 
 .text-info{
